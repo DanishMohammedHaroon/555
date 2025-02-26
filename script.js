@@ -19,6 +19,12 @@ const poems = [
     poem: "Roses are red \n Violets are blue \n I'm bad at poems \n Coffee",
     image: "coffee.jpeg",
   },
+  {
+    author: "Irina",
+    poem: "Roses are red \n Violets are blue \n my cat is my favourite \n but you're okay too",
+    image:
+      "https://www.rd.com/wp-content/uploads/2023/04/Roses-Are-Red-Poems-FT-GettyImages-913362778.jpg",
+  },
 ];
 
 let displayPoems = (array) => {
